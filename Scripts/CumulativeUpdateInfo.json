@@ -24,6 +24,18 @@
         "URI":  "http://support.microsoft.com/help/4528699"
     },
     {
+        "Title":  "Cumulative Update 08 for Microsoft Dynamics 365 Business Central April'19 on-premises",
+        "MsWebVer":  "39327",
+        "CU":  "08",
+        "KBID":  "4536555",
+        "ProductID":  "100844",
+        "PlatformBuild":  "14.9.39277",
+        "ApplicationBuild":  "14.9.39327",
+        "ReleaseDate":  "January, 2020",
+        "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, NA, NL, NO, NZ, RU, SE, UK",
+        "URI":  "http://support.microsoft.com/help/4536555"
+    },
+    {
         "Title":  "Cumulative Update 07 for Microsoft Dynamics 365 Business Central April'19 on-premises",
         "MsWebVer":  "14.8.38658",
         "CU":  "07",
@@ -106,6 +118,18 @@
         "ReleaseDate":  "May, 2019",
         "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, NA, NL, NO, NZ, RU, SE, UK",
         "URI":  "http://support.microsoft.com/help/4501146"
+    },
+    {
+        "Title":  "Cumulative Update 15 for Microsoft Dynamics 365 Business Central October'18 on-premises",
+        "MsWebVer":  "13.0.39340",
+        "CU":  "15",
+        "KBID":  "4536556",
+        "ProductID":  "100812",
+        "PlatformBuild":  "39276",
+        "ApplicationBuild":  "39340",
+        "ReleaseDate":  "January, 2020",
+        "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, NA, NL, NO, NZ, RU, SE, UK",
+        "URI":  "http://support.microsoft.com/help/4536556"
     },
     {
         "Title":  "Cumulative Update 14 for Microsoft Dynamics 365 Business Central October'18 on-premises",
@@ -274,6 +298,18 @@
         "ReleaseDate":  "November, 2018",
         "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, NA, NL, NO, NZ, RU, SE, UK",
         "URI":  "http://support.microsoft.com/help/4470115"
+    },
+    {
+        "Title":  "Cumulative Update 25 for Microsoft Dynamics NAV 2018",
+        "MsWebVer":  "11.0.39505",
+        "CU":  "25",
+        "KBID":  "4537389",
+        "ProductID":  "100843",
+        "PlatformBuild":  "",
+        "ApplicationBuild":  "39505",
+        "ReleaseDate":  "January, 2020",
+        "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, NA, NL, NO, NZ, RU, SE, UK",
+        "URI":  "http://support.microsoft.com/help/4537389"
     },
     {
         "Title":  "Cumulative Update 24 for Microsoft Dynamics NAV 2018",
@@ -562,6 +598,18 @@
         "ReleaseDate":  "January, 2018",
         "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, NA, NL, NO, NZ, RU, SE, UK",
         "URI":  "http://support.microsoft.com/help/4058601"
+    },
+    {
+        "Title":  "Cumulative Update 38 for Microsoft Dynamics NAV 2017",
+        "MsWebVer":  "10.0.30131",
+        "CU":  "38",
+        "KBID":  "4537390",
+        "ProductID":  "100811",
+        "PlatformBuild":  "",
+        "ApplicationBuild":  "30131",
+        "ReleaseDate":  "January, 2020",
+        "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, NA, NL, NO, NZ, RU, SE, UK",
+        "URI":  "http://support.microsoft.com/help/4537390"
     },
     {
         "Title":  "Cumulative Update 37 for Microsoft Dynamics NAV 2017",
@@ -1006,6 +1054,18 @@
         "ReleaseDate":  "December, 2016",
         "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, NA, NL, NO, NZ, RU, SE, UK",
         "URI":  "http://support.microsoft.com/help/3209071 "
+    },
+    {
+        "Title":  "Cumulative Update 51 for Microsoft Dynamics NAV 2016",
+        "MsWebVer":  "9.0.51705",
+        "CU":  "51",
+        "KBID":  "4537391",
+        "ProductID":  "100810",
+        "PlatformBuild":  "",
+        "ApplicationBuild":  "51705",
+        "ReleaseDate":  "January, 2020",
+        "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, IN, NA, NL, NO, NZ, RU, SE, UK",
+        "URI":  "http://support.microsoft.com/help/4537391"
     },
     {
         "Title":  "Cumulative Update 50 for Microsoft Dynamics NAV 2016",
@@ -1606,6 +1666,18 @@
         "ReleaseDate":  "November, 2015",
         "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI,",
         "URI":  "http://support.microsoft.com/help/3106089 "
+    },
+    {
+        "Title":  "Cumulative Update 63 for Microsoft Dynamics NAV 2015",
+        "MsWebVer":  "8.0.51706",
+        "CU":  "63",
+        "KBID":  "4537392",
+        "ProductID":  "100842",
+        "PlatformBuild":  "",
+        "ApplicationBuild":  "51706",
+        "ReleaseDate":  "January, 2019",
+        "Countries":  "AT, AU, BE, CH, CZ, DE, DK, ES, FI, FR, IS, IT, NA, NL, NO, NZ, RU, SE, UK",
+        "URI":  "http://support.microsoft.com/help/4537392"
     },
     {
         "Title":  "Cumulative Update 62 for Microsoft Dynamics NAV 2015",
